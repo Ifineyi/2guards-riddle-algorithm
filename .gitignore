@@ -1,0 +1,43 @@
+# Compiled binaries (exclude from git)
+*.exe
+*.dll
+*.obj
+*.o
+*.class
+*.pyc
+*.pyd
+*.so
+*.dylib
+*.beam
+*.a
+*.lib
+*.out
+*.t
+*.cmo
+*.cmi
+
+# Build artifacts and debug folders
+build/
+scripts/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Package managers
+vendor/
+node_modules/
+__pycache__/
+*.egg-info/
+
+# Archives
+*.zip
+*.tar.gz
+*.7z
+
+# OS files
+desktop.ini
