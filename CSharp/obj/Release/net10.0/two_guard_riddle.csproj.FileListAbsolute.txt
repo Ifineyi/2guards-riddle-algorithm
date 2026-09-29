@@ -1,0 +1,15 @@
+C:\Users\kusim\Desktop\TwoGuardRiddle_Algorithm\CSharp\obj\Release\net10.0\two_guard_riddle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kusim\Desktop\TwoGuardRiddle_Algorithm\CSharp\obj\Release\net10.0\two_guard_riddle.AssemblyInfoInputs.cache
+C:\Users\kusim\Desktop\TwoGuardRiddle_Algorithm\CSharp\obj\Release\net10.0\two_guard_riddle.AssemblyInfo.cs
+C:\Users\kusim\Desktop\TwoGuardRiddle_Algorithm\CSharp\obj\Release\net10.0\two_guard_riddle.csproj.CoreCompileInputs.cache
+C:\Users\kusim\Desktop\TwoGuardRiddle_Algorithm\CSharp\obj\Release\net10.0\two_guard_riddle.sourcelink.json
+C:\Users\kusim\Desktop\TwoGuardRiddle_Algorithm\build\CSharp\out\two_guard_riddle.exe
+C:\Users\kusim\Desktop\TwoGuardRiddle_Algorithm\build\CSharp\out\two_guard_riddle.deps.json
+C:\Users\kusim\Desktop\TwoGuardRiddle_Algorithm\build\CSharp\out\two_guard_riddle.runtimeconfig.json
+C:\Users\kusim\Desktop\TwoGuardRiddle_Algorithm\build\CSharp\out\two_guard_riddle.dll
+C:\Users\kusim\Desktop\TwoGuardRiddle_Algorithm\build\CSharp\out\two_guard_riddle.pdb
+C:\Users\kusim\Desktop\TwoGuardRiddle_Algorithm\CSharp\obj\Release\net10.0\two_guard_riddle.dll
+C:\Users\kusim\Desktop\TwoGuardRiddle_Algorithm\CSharp\obj\Release\net10.0\refint\two_guard_riddle.dll
+C:\Users\kusim\Desktop\TwoGuardRiddle_Algorithm\CSharp\obj\Release\net10.0\two_guard_riddle.pdb
+C:\Users\kusim\Desktop\TwoGuardRiddle_Algorithm\CSharp\obj\Release\net10.0\two_guard_riddle.genruntimeconfig.cache
+C:\Users\kusim\Desktop\TwoGuardRiddle_Algorithm\CSharp\obj\Release\net10.0\ref\two_guard_riddle.dll

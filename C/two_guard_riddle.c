@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdbool.h>
 #include <string.h>
-
+// 0. The purpose of this alogrithm is to choose the opposite of the response any guard gives you
 const char* choose_correct_door(bool asked_guard_is_truthful, const char* correct_door) {
     bool other_guard_is_truthful = !asked_guard_is_truthful;
     const char* doors[] = {"Door A", "Door B"};

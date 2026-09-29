@@ -1,0 +1,5 @@
+C:\Users\kusim\Desktop\TwoGuardRiddle_Algorithm\CSharp\obj\Release\net9.0\two_guard_riddle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kusim\Desktop\TwoGuardRiddle_Algorithm\CSharp\obj\Release\net9.0\two_guard_riddle.AssemblyInfoInputs.cache
+C:\Users\kusim\Desktop\TwoGuardRiddle_Algorithm\CSharp\obj\Release\net9.0\two_guard_riddle.AssemblyInfo.cs
+C:\Users\kusim\Desktop\TwoGuardRiddle_Algorithm\CSharp\obj\Release\net9.0\two_guard_riddle.csproj.CoreCompileInputs.cache
+C:\Users\kusim\Desktop\TwoGuardRiddle_Algorithm\CSharp\obj\Release\net9.0\two_guard_riddle.sourcelink.json
